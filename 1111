@@ -1,0 +1,7 @@
+nano git_tasks.sh
+chmod +x git_tasks.sh
+./git_tasks.sh <https://github.com/SamoulenkoVolodymyr/-Volodymur.git>
+
+
+
+
